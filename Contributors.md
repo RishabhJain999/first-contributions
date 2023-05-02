@@ -1,7 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 Tejas Chouhan
+
 - [Gyaur](https://github.com/Gy4ur)
 - [Billy Phan](https://github.com/bphan002)
 - [koya-tech](https://github.com/koya-tech)
@@ -15,6 +17,7 @@ Tejas Chouhan
 - [Daniel Johnson](https://github.com/Dev-Dannie)
 - [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
+  [Rishabh Jain](https://github.com/RishabhJain999)
 - [Trottie McQueen] (https://github.com/trottiemcqueen)
 - [Jerry Yan](https://github.com/jerryy668)
 - [Chico Stick] (https://github.com/ChicoStickowo)
@@ -49,9 +52,9 @@ Tejas Chouhan
 - [Divine Amunega](https://github.com/divineamunega)
 - [Adam_Logman](https://github.com/adamlquman)
 - [Jared Pope](https://github.com/jpope6)
-- [Anwar_Hossain]  (https://github.com/anwarhossain1)
+- [Anwar_Hossain] (https://github.com/anwarhossain1)
 - [Techylawyer] (https://github.com/Techylawyer)
-- [Brijesh_Roy]  (https://github.com/brijeshroy)
+- [Brijesh_Roy] (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
 - [Daniel Suwahjo] (https://github.com/danielsuwahjo)
 - [Muhammad Hatif Mujahid](https://github.com/hatifmujahid)
@@ -101,7 +104,7 @@ Tejas Chouhan
 - [June Song]
 - [khunsai06](https://github.com/khunsai06)
 - [shivamxsurya](https://github.com/shivamxsurya)
--Madhur Manan
+  -Madhur Manan
 - [m-foskett](https://github.com/m-foskett)
 - [Christopher Lopez](https://github.com/BedlaminGoliath)
 - [HOUSSAM666](https://github.com/HOUSSAM666)
@@ -206,8 +209,7 @@ Tejas Chouhan
 - [Leandro Ezequiel Aballone](https://github.com/Lean-Aballone)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Busiswa M] (https://github.com/BusiswaM)
-- [Himanshu Singh](https://github.com/singh-himanshu-16)
--[Victory Ndu](https://github.com/Victoryeddy)
+- [Himanshu Singh](https://github.com/singh-himanshu-16) -[Victory Ndu](https://github.com/Victoryeddy)
 - [Himanshu Mathur](https://github.com/HimanshuMathur1396)
 - [Tim Yu](https://github.com/tyu012)
 - [DineshVeguru](https://github.com/dineshveguru)
@@ -764,7 +766,7 @@ Tejas Chouhan
 - [Phillip Yen](https://github.com/yphillip)
 - [kan01234](https://github.com/kan01234/)
 - [Mark DC95](https://github.com/MarkDC95)
-Shrajan Jain
+  Shrajan Jain
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [japesjake](http://github.com/japesjake)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
@@ -1281,7 +1283,7 @@ Shrajan Jain
 - [Priyank Panchal](https://github.com/priyank-panchal)
 - [Akshay Thakur] (https://github.com/popty)
 - [Abhinav Sharma] (https://github.com/Abhinav2091)
-- [Ajay Mehta]      (https://github.com/AIwithAj)
+- [Ajay Mehta] (https://github.com/AIwithAj)
 - [Mateeh Ullah] (https://github.com/MateehUllah)
 - [Peter Dinh] (https://github.com/PeterDevelops)
 - [Chris Asbury] (https://github.com/CGA15)
